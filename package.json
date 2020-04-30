@@ -24,7 +24,7 @@
         "font-awesome": "^4.7.0",
         "fullcalendar": "^3.5.1",
         "html5sortable": "^0.6.3",
-        "jquery": "^3.2.1",
+        "jquery": "^3.5.0",
         "jquery-countto": "^1.2.0",
         "jquery-fullscreen-plugin": "^1.0.0",
         "jquery.stellar": "^0.6.2",
